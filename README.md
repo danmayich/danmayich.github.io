@@ -1,4 +1,4 @@
-# Made Up Documentation
+# Made Up Documentationssssss
 
 This made up documentation covers a feature called `WonderTool` in both JavaScript and C#. `WonderTool` is an imaginary utility that calculates the strength of a given string based on its length and character diversity.
 
